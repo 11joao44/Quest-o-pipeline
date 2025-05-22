@@ -10,7 +10,7 @@ O texto compara o pipeline com uma linha de montagem de automóveis. Com base
 nessa analogia e no conceito apresentado, qual é o principal objetivo da utilização de
 pipeline na arquitetura de computadores?
 
-- [ ]a) Aumentar a capacidade de armazenamento da memória cache
+- [ ] a) Aumentar a capacidade de armazenamento da memória cache
 - [ ] b) Reduzir o consumo de energia do processador
 - [x] c) Aumentar o desempenho na execução de instruções através do paralelismo
 - [ ] d) Simplificar o conjunto de instruções do processador
