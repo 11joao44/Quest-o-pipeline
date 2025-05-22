@@ -10,11 +10,11 @@ O texto compara o pipeline com uma linha de montagem de automóveis. Com base
 nessa analogia e no conceito apresentado, qual é o principal objetivo da utilização de
 pipeline na arquitetura de computadores?
 
-- [ ] a) Aumentar a capacidade de armazenamento da memória cache
-- [ ] b) Reduzir o consumo de energia do processador
-- [x] c) Aumentar o desempenho na execução de instruções através do paralelismo
-- [ ] d) Simplificar o conjunto de instruções do processador
-- [ ] e) Eliminar completamente a necessidade de ciclos de clock
+☐ a) Aumentar a capacidade de armazenamento da memória cache
+☐ b) Reduzir o consumo de energia do processador
+✅ c) Aumentar o desempenho na execução de instruções através do paralelismo
+☐ d) Simplificar o conjunto de instruções do processador
+☐ e) Eliminar completamente a necessidade de ciclos de clock
 
 ## Questão 2
 
@@ -22,11 +22,11 @@ pipeline na arquitetura de computadores?
 
 Em um pipeline com os estágios F, D, E, M e W, ocorre um conflito de recursos quando:
 
-- [ ] a) Duas instruções tentam acessar a mesma posição de memória simultaneamente
-- [x] b) O pipeline tenta utilizar o mesmo componente por mais de uma instrução ao mesmo tempo
-- [ ] c) Uma instrução depende do resultado de outra instrução que ainda não foi concluída
-- [ ] d) Uma instrução de desvio condicional altera o fluxo de execução do programa
-- [ ] e) O ciclo de clock é insuficiente para a execução de um estágio do pipeline
+☐ a) Duas instruções tentam acessar a mesma posição de memória simultaneamente
+✅ b) O pipeline tenta utilizar o mesmo componente por mais de uma instrução ao mesmo tempo
+☐ c) Uma instrução depende do resultado de outra instrução que ainda não foi concluída
+☐ d) Uma instrução de desvio condicional altera o fluxo de execução do programa
+☐ e) O ciclo de clock é insuficiente para a execução de um estágio do pipeline
 
 ## Questão 3
 
@@ -34,12 +34,12 @@ Em um pipeline com os estágios F, D, E, M e W, ocorre um conflito de recursos q
 
 A técnica de forwarding (bypassing) consiste em:
 
-- [ ] a) Inserir bolhas no pipeline para resolver conflitos de dados
-- [ ] b) Prever se os desvios condicionais serão tomados ou não
-- [x] c) Fornecer o resultado de uma instrução diretamente como entrada para outra antes do
-      término de sua execução completa
-- [ ] d)Adiar a execução de instruções de salto para evitar conflitos
-- [ ] e) Reordenar as instruções para evitar dependências de dados
+☐ a) Inserir bolhas no pipeline para resolver conflitos de dados
+☐ b) Prever se os desvios condicionais serão tomados ou não
+✅ c) Fornecer o resultado de uma instrução diretamente como entrada para outra antes do
+término de sua execução completa
+☐ d)Adiar a execução de instruções de salto para evitar conflitos
+☐ e) Reordenar as instruções para evitar dependências de dados
 
 ## Questão 4
 
@@ -48,11 +48,11 @@ A técnica de forwarding (bypassing) consiste em:
 Quais são os três principais problemas que podem ocorrer na execução de um pipeline,
 conforme apresentado no texto?
 
-- [x] a) Conflito de recursos, conflito de dados e conflito de controle
-- [ ] b) Conflito de memória, conflito de registradores e conflito de execução
-- [ ] c) Conflito de busca, conflito de decodificação e conflito de escrita
-- [ ] d) Conflito de hardware, conflito de software e conflito de firmware
-- [ ] e) Conflito de ciclo, conflito de estágio e conflito de instrução
+✅ a) Conflito de recursos, conflito de dados e conflito de controle
+☐ b) Conflito de memória, conflito de registradores e conflito de execução
+☐ c) Conflito de busca, conflito de decodificação e conflito de escrita
+☐ d) Conflito de hardware, conflito de software e conflito de firmware
+☐ e) Conflito de ciclo, conflito de estágio e conflito de instrução
 
 ## Questão 5
 
